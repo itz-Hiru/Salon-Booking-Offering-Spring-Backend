@@ -17,7 +17,7 @@ public class ServiceOffering {
     private String description;
 
     @Column(nullable = false)
-    private int price;
+    private double price;
 
     @Column(nullable = false)
     private int duration;
