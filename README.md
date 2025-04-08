@@ -1,19 +1,19 @@
 
-# 💇‍♀️ Salon Booking System - Salon Service API 💼
+# 💇‍♀️ Salon Booking System - Offering Services API 💼
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=protocols&logoColor=white)
 
-> A backend service offering built with **Spring Boot** for managing users in a Salon Booking System. This microservice handles service offering creation, updating, getting via REST APIs.
+> A backend service offering built with **Spring Boot** for managing offerings in a Salon Booking System. This microservice handles service offering via REST APIs.
 
 ---
 
 ## 🚀 Features
 
-- ✅ Create a service (with validation)
-- 🧑 Category management (Update/Fetch user details)
+- ✅ Create a offering service (with validation)
+- 🧑 Offering services management (Update/Fetch details)
 
 ---
 
